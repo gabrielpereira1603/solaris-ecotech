@@ -17,4 +17,4 @@ jobs:
           server: ${{ secrets.ftp_host }}
           username: ${{ secrets.ftp_user }}
           password: ${{ secrets.ftp_password }}
-          server-dir: victornepo.somosdevteam.com/
+          server-dir: /home/u980462786/domains/solarisecotech.com/public_html/
